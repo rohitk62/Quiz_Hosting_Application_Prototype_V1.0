@@ -3,7 +3,7 @@ Early Release of a Quiz Hosting application with advanced features like media pl
 
 Hi This is Rohit Kundu, a enthusiastic & passionate developer who likes to keep on experiemnting in canvas wheather it's computer or life.
 
-This quiz is just the implementation of a sudden idea clciked in my mind on a bouring Saturday morning.
+This quiz is just the implementation of a sudden idea clicked in my mind on a bouring Saturday morning.
 
 Note: As this application is built via pyinstaller ,so it packed everything in single file, making it large (approx 950 MB), so it will take time to launch, so plz hang-on, wait time may be 5-15 Minute based on your PC capability.
 
