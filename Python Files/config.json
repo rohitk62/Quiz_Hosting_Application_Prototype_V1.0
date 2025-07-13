@@ -1,0 +1,51 @@
+{
+  "teams": ["A", "B", "C", "D", "E", "F","G","H","I","J","K","L"],
+  "rounds": [
+    
+    {
+      "name": "1)Literature & Mythology",
+      "questions": 14,
+      "time_per_question": 60
+    },
+    {
+      "name": "2)Googly",
+      "questions": 14,
+      "time_per_question": 120
+    },
+	{
+      "name": "3)Audio & Video",
+      "questions": 14,
+      "time_per_question": 60
+    },
+	{
+      "name": "4)History & Geography",
+      "questions": 14,
+      "time_per_question": 60
+    },
+	{
+      "name": "5)Sports",
+      "questions": 14,
+      "time_per_question": 60
+    },
+	{
+      "name": "6)Science & Technology",
+      "questions": 14,
+      "time_per_question": 60
+    },
+	{
+      "name": "7)Tagline/Commerce",
+      "questions": 14,
+      "time_per_question": 60
+    },
+	{
+      "name": "8)Current Affairs/ Who am I ?",
+      "questions": 14,
+      "time_per_question": 60
+    },
+	{
+      "name": "**Demo question**",
+      "questions": 3,
+      "time_per_question": 10
+    }
+  ]
+}
